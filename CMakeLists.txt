@@ -9,6 +9,7 @@ target_sources(spindle INTERFACE
  ${CMAKE_CURRENT_LIST_DIR}/stepper.c
  ${CMAKE_CURRENT_LIST_DIR}/vfd/spindle.c
  ${CMAKE_CURRENT_LIST_DIR}/vfd/huanyang.c
+ ${CMAKE_CURRENT_LIST_DIR}/vfd/mk100.c
  ${CMAKE_CURRENT_LIST_DIR}/vfd/huanyang2.c
  ${CMAKE_CURRENT_LIST_DIR}/vfd/h100.c
  ${CMAKE_CURRENT_LIST_DIR}/vfd/modvfd.c
